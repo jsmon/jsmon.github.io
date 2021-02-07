@@ -1,2 +1,2 @@
 # GitHub Pages site
-This is just a redirect to [website.jsmon.vercel.app](https://website.jsmon.vercel.app/).
+This is just a redirect to [jsmon.vercel.app](https://jsmon.vercel.app/).
